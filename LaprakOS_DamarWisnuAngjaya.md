@@ -12,15 +12,15 @@ b. Buka VirtualBox, buat VM baru dengan spesifikasi:
 
 c.  Masukan password "changeme" pada saat tampil menu user
 
-d.  Klik kanan pada tampilan layar vm
+d.  Klik kanan pada tampilan VM
 
 e.  Konfigurasi OS:
--   Setelah masuk menu dekstop, pilih terminal dengan cara klik kanan, lalu pilih open terminal.
--   Pada terminal ketikan perintah sudo apt upgrade && sudo apt update.
--   Setelah itu ketik perintah sudo nano /etc/hostname.
--   Setelah itu gunakan crtl + o untuk menyimpan hostname baru tersebut.
+-   Setelah masuk menu dekstop, pilih terminal.
+-   Ketikan perintah sudo apt upgrade && sudo apt update di terminal.
+-   Ketik perintah sudo nano /etc/hostname.
+-   Gunakan crtl + o untuk menyimpan hostname baru tersebut.
 -   Gunakan ctrl + x untuk keluar dari terminal tersebut
--   Lalu ketik sudo reboot
+-   Ketik sudo reboot
 
 
 **Nomor 2.**
