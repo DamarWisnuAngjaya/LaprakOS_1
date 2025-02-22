@@ -1,6 +1,6 @@
 **TUGAS PENDAHULUAN**
 
-Nomor 1.
+**Nomor 1**
 Langkah-langkah instalasi Debian atau Ubuntu di VirtualBox
 
 a. Unduh ISO Debian atau Ubuntu dari situs resminya.
