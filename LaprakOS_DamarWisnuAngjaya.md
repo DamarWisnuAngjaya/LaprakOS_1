@@ -46,6 +46,10 @@ Stoney Ridge
 **Nomor 4.**
 Cara lain mencari info list aplikasi & hardware menggunakan Shell
 
+- Untuk info hardware secara lengkap:
+```bash
+lshw -short
+```
 - Untuk storage: 
 ```bash
 df -h
@@ -54,20 +58,15 @@ df -h
 ```bash
 free -h
 ```
-- Cek network interface:
+- Cek CPU:
 ```bash
-ip a
+lscpu
 ```
 - Cek GPU:
 ```bash
 lspci | grep
 ```
-- Cek aplikasi dengan snap atau flatpak:
-    - Snap list: 
-    ```bash
-    snap list
-    ```
-    - Flatpak list:
-    ```bash
-    flatpak list
-    ```
+- Cek aplikasi yang terinstal:
+```bash
+dpkg --get-selections | grep -v deinstall
+```
