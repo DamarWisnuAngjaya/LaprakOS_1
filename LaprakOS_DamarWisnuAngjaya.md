@@ -1,6 +1,6 @@
 **TUGAS PENDAHULUAN**
 
-**Nomor 1**
+**Nomor 1.**
 Langkah-langkah instalasi Debian atau Ubuntu di VirtualBox
 
 a. Unduh ISO Debian atau Ubuntu dari situs resminya.
@@ -23,7 +23,7 @@ e.  Konfigurasi OS:
 -   Lalu ketik sudo reboot
 
 
-**Nomor 2**
+**Nomor 2.**
 Perbandingan Debian 11 dengan Debian 12
 
 | ASPEK                | DEBIAN 11 (BULLSEYE) | DEBIAN 12 (BOOKWORM)  |
@@ -36,14 +36,14 @@ Perbandingan Debian 11 dengan Debian 12
 | keamanan             | Pembaruan keamanan yang rutin | Peningkatan dan perbaikan pada bug |
 
 
-**Nomor 3**
+**Nomor 3.**
 Cek Environment menggunakan CPU-X
 
 ```bash
 Stoney Ridge
 ```
 
-**Nomor 4**
+**Nomor 4.**
 Cara lain mencari info list aplikasi & hardware menggunakan Shell
 
 - Untuk storage: 
