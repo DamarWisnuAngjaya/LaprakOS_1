@@ -3,7 +3,7 @@
 **Nomor 1.**
 Langkah-langkah instalasi Ubuntu di VirtualBox
 
-a. Unduh ISO Debian dari situs resminya.
+a. Unduh ISO Ubuntu dari situs resminya.
 
 b. Buka VirtualBox, buat VM baru dengan spesifikasi:
 - CPU: 2 core
